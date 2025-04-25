@@ -1,0 +1,20 @@
+/* input,
+textarea,
+select {
+  height: 40px;
+  padding: 8px;
+  font-size: 16px;
+  box-sizing: border-box;
+} */
+
+/* TODOアプリ全体css */
+.app_container {
+  padding: 20px;
+  width: fit-content;
+}
+
+/* 絞り込み機能css */
+.sort_container {
+  margin-top: 10px;
+  display: flex;
+}
