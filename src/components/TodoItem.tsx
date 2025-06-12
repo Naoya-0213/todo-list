@@ -1,6 +1,6 @@
 import { Todo, TodoStatus } from "../Types/todo";
 import { useState } from "react";
-import "../css/TodoItem.css";
+import "../style.css/TodoItem.css";
 
 // 親（App）から受け取るpropsの型
 type Props = {

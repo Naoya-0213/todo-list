@@ -1,5 +1,5 @@
 import { useForm } from "react-hook-form";
-import "../css/TodoForm.css";
+import "../style.css/TodoForm.css";
 
 // 入力フォームで扱うデータの型（タイトルと期限）
 type FormValues = {
@@ -44,7 +44,7 @@ export const TodoForm = ({ onAdd }: Props) => {
         <input
           type="date"
           {...register("dueDate")}
-          className="form_duedate"
+          className="form_due-date"
           // バリデーションなし
         />
 

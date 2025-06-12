@@ -37,7 +37,7 @@ const RAW_RUNTIME_STATE =
           ["globals", "npm:16.0.0"],\
           ["react", "npm:19.1.0"],\
           ["react-dom", "virtual:865a05fa6711c1e21850737f7f45edfcab4055c499036e3db45ba83b87e2c477ae2d7e3b94d1585ff7bdc25cd95978200832d3ad19f6e22e474dee206b1ca1b2#npm:19.1.0"],\
-          ["react-hook-form", "virtual:865a05fa6711c1e21850737f7f45edfcab4055c499036e3db45ba83b87e2c477ae2d7e3b94d1585ff7bdc25cd95978200832d3ad19f6e22e474dee206b1ca1b2#npm:7.55.0"],\
+          ["react-hook-form", "virtual:865a05fa6711c1e21850737f7f45edfcab4055c499036e3db45ba83b87e2c477ae2d7e3b94d1585ff7bdc25cd95978200832d3ad19f6e22e474dee206b1ca1b2#npm:7.56.1"],\
           ["typescript", "patch:typescript@npm%3A5.7.3#optional!builtin<compat/typescript>::version=5.7.3&hash=5786d5"],\
           ["typescript-eslint", "virtual:865a05fa6711c1e21850737f7f45edfcab4055c499036e3db45ba83b87e2c477ae2d7e3b94d1585ff7bdc25cd95978200832d3ad19f6e22e474dee206b1ca1b2#npm:8.30.1"],\
           ["uuid", "npm:11.1.0"],\
@@ -2884,17 +2884,17 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["react-hook-form", [\
-      ["npm:7.55.0", {\
-        "packageLocation": "../../../../.yarn/berry/cache/react-hook-form-npm-7.55.0-a0b31dc513-10c0.zip/node_modules/react-hook-form/",\
+      ["npm:7.56.1", {\
+        "packageLocation": "../../../../.yarn/berry/cache/react-hook-form-npm-7.56.1-54e885c06f-10c0.zip/node_modules/react-hook-form/",\
         "packageDependencies": [\
-          ["react-hook-form", "npm:7.55.0"]\
+          ["react-hook-form", "npm:7.56.1"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:865a05fa6711c1e21850737f7f45edfcab4055c499036e3db45ba83b87e2c477ae2d7e3b94d1585ff7bdc25cd95978200832d3ad19f6e22e474dee206b1ca1b2#npm:7.55.0", {\
-        "packageLocation": "./.yarn/__virtual__/react-hook-form-virtual-2e978b8e19/5/.yarn/berry/cache/react-hook-form-npm-7.55.0-a0b31dc513-10c0.zip/node_modules/react-hook-form/",\
+      ["virtual:865a05fa6711c1e21850737f7f45edfcab4055c499036e3db45ba83b87e2c477ae2d7e3b94d1585ff7bdc25cd95978200832d3ad19f6e22e474dee206b1ca1b2#npm:7.56.1", {\
+        "packageLocation": "./.yarn/__virtual__/react-hook-form-virtual-a6ef8016f0/5/.yarn/berry/cache/react-hook-form-npm-7.56.1-54e885c06f-10c0.zip/node_modules/react-hook-form/",\
         "packageDependencies": [\
-          ["react-hook-form", "virtual:865a05fa6711c1e21850737f7f45edfcab4055c499036e3db45ba83b87e2c477ae2d7e3b94d1585ff7bdc25cd95978200832d3ad19f6e22e474dee206b1ca1b2#npm:7.55.0"],\
+          ["react-hook-form", "virtual:865a05fa6711c1e21850737f7f45edfcab4055c499036e3db45ba83b87e2c477ae2d7e3b94d1585ff7bdc25cd95978200832d3ad19f6e22e474dee206b1ca1b2#npm:7.56.1"],\
           ["@types/react", "npm:19.1.2"],\
           ["react", "npm:19.1.0"]\
         ],\
@@ -3214,7 +3214,7 @@ const RAW_RUNTIME_STATE =
           ["globals", "npm:16.0.0"],\
           ["react", "npm:19.1.0"],\
           ["react-dom", "virtual:865a05fa6711c1e21850737f7f45edfcab4055c499036e3db45ba83b87e2c477ae2d7e3b94d1585ff7bdc25cd95978200832d3ad19f6e22e474dee206b1ca1b2#npm:19.1.0"],\
-          ["react-hook-form", "virtual:865a05fa6711c1e21850737f7f45edfcab4055c499036e3db45ba83b87e2c477ae2d7e3b94d1585ff7bdc25cd95978200832d3ad19f6e22e474dee206b1ca1b2#npm:7.55.0"],\
+          ["react-hook-form", "virtual:865a05fa6711c1e21850737f7f45edfcab4055c499036e3db45ba83b87e2c477ae2d7e3b94d1585ff7bdc25cd95978200832d3ad19f6e22e474dee206b1ca1b2#npm:7.56.1"],\
           ["typescript", "patch:typescript@npm%3A5.7.3#optional!builtin<compat/typescript>::version=5.7.3&hash=5786d5"],\
           ["typescript-eslint", "virtual:865a05fa6711c1e21850737f7f45edfcab4055c499036e3db45ba83b87e2c477ae2d7e3b94d1585ff7bdc25cd95978200832d3ad19f6e22e474dee206b1ca1b2#npm:8.30.1"],\
           ["uuid", "npm:11.1.0"],\

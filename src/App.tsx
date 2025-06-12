@@ -3,7 +3,7 @@ import { TodoForm } from "./components/TodoForm"; // TODO追加フォームコ�
 import { TodoList } from "./components/TodoList"; // TODO一覧表示コンポーネント
 import { Todo, TodoStatus } from "./types/todo"; // TODO型定義とステータス型
 import { v4 as uuidv4 } from "uuid"; // 一意なID生成ライブラリ
-import "./css/App.css";
+import "./style.css/App.css";
 
 function App() {
   // ①全てのTODOリストを保持（状態管理）

@@ -15,10 +15,10 @@
   height: 42px;
   display: flex;
   align-items: center;
+}
 
-  h3 {
-    font-weight: bold;
-  }
+.todo_item h3 {
+  font-weight: bold;
 }
 
 .todo_editing {
